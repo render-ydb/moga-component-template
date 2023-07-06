@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        [
+            "moga-component-build-plugin"
+        ]
+    ]
+}

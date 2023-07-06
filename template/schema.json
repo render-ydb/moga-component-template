@@ -1,0 +1,11 @@
+{
+    "title": "moga-component",
+    "properties": {
+        "name": {
+            "type": "string",
+            "required": true,
+            "value": "",
+            "mockValue": "测试数据"
+        }
+    }
+}

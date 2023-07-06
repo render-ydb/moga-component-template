@@ -1,0 +1,22 @@
+{
+  "name": "moga-component-template",
+  "version": "1.0.0",
+  "description": "Moga应用中涉及到的react基础组件模板",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/render-ydb/moga-component-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/render-ydb/moga-component-template/issues"
+  },
+  "homepage": "https://github.com/render-ydb/moga-component-template#readme"
+}
