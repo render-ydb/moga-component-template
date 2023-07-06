@@ -21,10 +21,6 @@
       "pre-commit": "npm run lint"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/render-ydb/moga-component.git"
-  },
   "files": [
     "dist",
     "es",
